@@ -22,7 +22,7 @@ pygmentsCodeFencesGuessSyntax = true
     description = "Jimmy Fagerholm's personal website"
     keywords = "blog,developer,personal"
     info = "Full stack developer with an embedded background"
-    avatarURL = "images/profile-avatar.png"
+    avatarURL = "images/JIMMYCOMIC.png"
     footerContent = "Thanks for checking out my site."
 
     dateFormat = "January 2, 2006"
