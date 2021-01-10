@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Fagerholm</title>
+    <link>http://www.example.com/tags/web/</link>
+    <description>Recent content in Web on Fagerholm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Jan 2021 14:52:48 +0200</lastBuildDate><atom:link href="http://www.example.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technologies</title>
+      <link>http://www.example.com/posts/technologies/</link>
+      <pubDate>Sun, 10 Jan 2021 14:52:48 +0200</pubDate>
+      
+      <guid>http://www.example.com/posts/technologies/</guid>
+      <description>These are the technologies I master. Some of these I have not touched in the last year. I first touched C and C++ back in 2014. It was my main language until 2016, then I started learning Java and Python through the University. I have later used C# in a few projects, in both website heavy projects and an embedded project. In the recent years I have mainly done Web development with Javascript, React, Vue and Angular.</description>
+    </item>
+    
+  </channel>
+</rss>

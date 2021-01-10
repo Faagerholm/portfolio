@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fagerholm</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Fagerholm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Jan 2021 14:52:48 +0200</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://www.example.com/projects/</link>
+      <pubDate>Sun, 10 Jan 2021 18:00:00 +0200</pubDate>
+      
+      <guid>http://www.example.com/projects/</guid>
+      <description>My projects will be listed here.
+You will have a opportunity to check out what I have created and get a better understanding of my knowledge with the different technologies</description>
+    </item>
+    
+    <item>
+      <title>Technologies</title>
+      <link>http://www.example.com/posts/technologies/</link>
+      <pubDate>Sun, 10 Jan 2021 14:52:48 +0200</pubDate>
+      
+      <guid>http://www.example.com/posts/technologies/</guid>
+      <description>These are the technologies I master. Some of these I have not touched in the last year. I first touched C and C++ back in 2014. It was my main language until 2016, then I started learning Java and Python through the University. I have later used C# in a few projects, in both website heavy projects and an embedded project. In the recent years I have mainly done Web development with Javascript, React, Vue and Angular.</description>
+    </item>
+    
+    <item>
+      <title>Jimmy Fagerholm</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Sun, 10 Jan 2021 14:12:57 +0200</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>Hello there,
+I am a computer engineering student, soon to graduate, with a background in electronics. With multiple years of full-stack Java, and Python development experience.
+I have worked with both large projects and small POC projects, usually in an agile environment with both SAFe and scrum. Team management is one of my strong suits from working with the student association board for multiple years.
+I have an interest in machine learning and in particular Reinforcement learning.</description>
+    </item>
+    
+    <item>
+      <title>Init post</title>
+      <link>http://www.example.com/posts/my-first-post/</link>
+      <pubDate>Sat, 09 Jan 2021 22:09:52 +0200</pubDate>
+      
+      <guid>http://www.example.com/posts/my-first-post/</guid>
+      <description>This is the fist post on my blog As of 2021 I will try to output some content. This is the very first post.
+Some ideas what to do in 2021  Deploy my own portfolio website (This site) Learn more about technologies I already handle Learn more about new technologies Submit to at least two open source projects Finish my Master&amp;rsquo;s degree  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.example.com/contact/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/contact/</guid>
+      <description>Feel free to contact me below!
+Name      E-mail address      Message    Send   (Powered by Un-static Forms)
+ </description>
+    </item>
+    
+  </channel>
+</rss>

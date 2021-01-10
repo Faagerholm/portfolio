@@ -1,0 +1,46 @@
+
+body.colorscheme-dark button {
+    color: #dadada;
+    border: 2px solid rgba(218,218,218,0.2);
+}
+body.colorscheme-dark input[type="text"] {
+    color: white;
+}
+
+body button {
+    color: #212121;
+    border: 2px solid rgba(33,33,33,0.2);
+}
+
+form {
+    font-size: 1.2em;
+}
+
+form input[type="text"] {
+    background-color: inherit;
+    border: none;
+    border-bottom: 2px solid black;
+    min-width: 350px;
+}
+form button {
+    background-color: inherit;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+}
+form button:hover {
+    background-color: white;
+    transition: 500ms ease-in;
+}
+
+.input-group-addon {
+    display: inline-block;
+    min-width: 2rem;
+}
+.col-form-label {
+    padding-bottom: 1rem;
+}
+
+.col-8 {
+    padding-bottom: 2rem;
+}
+

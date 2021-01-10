@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Fagerholm</title>
+    <link>http://www.example.com/posts/</link>
+    <description>Recent content in Posts on Fagerholm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Jan 2021 14:52:48 +0200</lastBuildDate><atom:link href="http://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technologies</title>
+      <link>http://www.example.com/posts/technologies/</link>
+      <pubDate>Sun, 10 Jan 2021 14:52:48 +0200</pubDate>
+      
+      <guid>http://www.example.com/posts/technologies/</guid>
+      <description>These are the technologies I master. Some of these I have not touched in the last year. I first touched C and C++ back in 2014. It was my main language until 2016, then I started learning Java and Python through the University. I have later used C# in a few projects, in both website heavy projects and an embedded project. In the recent years I have mainly done Web development with Javascript, React, Vue and Angular.</description>
+    </item>
+    
+    <item>
+      <title>Init post</title>
+      <link>http://www.example.com/posts/my-first-post/</link>
+      <pubDate>Sat, 09 Jan 2021 22:09:52 +0200</pubDate>
+      
+      <guid>http://www.example.com/posts/my-first-post/</guid>
+      <description>This is the fist post on my blog As of 2021 I will try to output some content. This is the very first post.
+Some ideas what to do in 2021  Deploy my own portfolio website (This site) Learn more about technologies I already handle Learn more about new technologies Submit to at least two open source projects Finish my Master&amp;rsquo;s degree  </description>
+    </item>
+    
+  </channel>
+</rss>
